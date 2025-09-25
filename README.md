@@ -20,17 +20,13 @@
 <!-- GitHub Trophy -->
 <div align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="93.8%" src="https://github-profile-trophy.vercel.app/?username=shinnosuke1465&row=1&column=6&no-frame=true&margin-w=1&theme=onedark" alt="trophy" />
+        <img width="93.8%" src="https://github-profile-trophy.vercel.app/?username=shinnosuke1465&row=1&column=5&no-frame=true&margin-w=1&theme=onedark" alt="trophy" />
     </a>
 </div>
 <!-- Batch -->
 
 <div align="left">
-<!-- GitHub profile -->
-    <a href="https://github.com/shonsukee/shonsukee/">
-        <img src="https://komarev.com/ghpvc/?username=shinnosuke1465" alt="shonsukee" />
-    </a>
----
+
   
 ## Skills 🛠️
 <!-- Skills -->
